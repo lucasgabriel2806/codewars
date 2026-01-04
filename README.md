@@ -1,5 +1,5 @@
 # CodeWars - Desafios
-<p>Esse é um repositório onde coloco as resoluções feitas por mim dos desafios da plataforma codewars.</p>
+<p>Repositório contendo as minhas resoluções dos desafios da plataforma codewars.</p>
 <p>Acesse o site: <a href="https://www.codewars.com/" target="_blank">codewars</a></p>
 
 ![print_tela](img/codewars-logo.png)
