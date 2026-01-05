@@ -14,4 +14,4 @@ As próximas palavras devem ser sempre capitalizadas.
 
 <code>"The_Stealth-Warrior"</code> é convertido para <code>"TheStealthWarrior"</code>
 
-<a href="https://www.codewars.com/kata/517abf86da9663f1d2000003/javascript" target="_blank">
+<a href="https://www.codewars.com/kata/517abf86da9663f1d2000003/javascript" target="_blank">link do desafio</a>
